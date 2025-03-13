@@ -156,7 +156,7 @@ EPAiV5-CapStone/
 │   ├── email_services.py  # Email and calendar services
 │   ├── text_file_read.py  # Text file processing
 │   ├── file_compression.py # Image compression operations
-├── .env                   # Environment variables
+├── .env.example            # Environment variables
 ├── requirements.txt       # Dependencies
 └── README.md              # Documentation
 ```
